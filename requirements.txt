@@ -1,0 +1,4 @@
+# ClipMind-TUI - Zero Dependencies
+# This project uses only Python standard library
+# No external packages required
+# Python >= 3.8
